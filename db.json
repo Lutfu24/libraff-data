@@ -16,7 +16,11 @@
         "Hələ də oxuduqca yeni şeylər kəşf edirəm."
       ],
       "sellCount": 1200000,
-      "stock": 45
+      "stock": 45,
+      "like": 1,
+      "isLike": false,
+      "dislike": 0,
+      "isDisLike": false
     },
     {
       "id": 2,
@@ -34,7 +38,11 @@
         "Mütləq oxunmalı əsərdir."
       ],
       "sellCount": 2000000,
-      "stock": 38
+      "stock": 38,
+      "like": 1,
+      "isLike": false,
+      "dislike": 0,
+      "isDisLike": false
     },
     {
       "id": 3,
@@ -52,7 +60,11 @@
         "Sevgi haqqında fərqli baxış qazandırdı."
       ],
       "sellCount": 1500000,
-      "stock": 52
+      "stock": 52,
+      "like": 1,
+      "isLike": false,
+      "dislike": 0,
+      "isDisLike": false
     },
     {
       "id": 4,
@@ -70,7 +82,11 @@
         "Gatsby obrazı unudulmaz qalıb."
       ],
       "sellCount": 1300000,
-      "stock": 60
+      "stock": 60,
+      "like": 1,
+      "isLike": false,
+      "dislike": 0,
+      "isDisLike": false
     },
     {
       "id": 5,
@@ -88,7 +104,11 @@
         "Uzun olsa da, oxumağa dəyər."
       ],
       "sellCount": 800000,
-      "stock": 33
+      "stock": 33,
+      "like": 1,
+      "isLike": false,
+      "dislike": 0,
+      "isDisLike": false
     },
     {
       "id": 6,
@@ -106,7 +126,11 @@
         "Uzun və zəngindir, lakin hər kəlməsi dəyərlidir."
       ],
       "sellCount": 900000,
-      "stock": 27
+      "stock": 27,
+      "like": 1,
+      "isLike": false,
+      "dislike": 0,
+      "isDisLike": false
     },
     {
       "id": 7,
@@ -124,7 +148,11 @@
         "Tuşkən qalan hisslər verdi."
       ],
       "sellCount": 1100000,
-      "stock": 40
+      "stock": 40,
+      "like": 1,
+      "isLike": false,
+      "dislike": 0,
+      "isDisLike": false
     },
     {
       "id": 8,
@@ -142,7 +170,11 @@
         "Bu hekayə ruhuma toxundu."
       ],
       "sellCount": 850000,
-      "stock": 35
+      "stock": 35,
+      "like": 1,
+      "isLike": false,
+      "dislike": 0,
+      "isDisLike": false
     },
     {
       "id": 9,
@@ -160,7 +192,11 @@
         "Rəcavətlə dolu satira."
       ],
       "sellCount": 1400000,
-      "stock": 30
+      "stock": 30,
+      "like": 1,
+      "isLike": false,
+      "dislike": 0,
+      "isDisLike": false
     },
     {
       "id": 10,
@@ -178,7 +214,11 @@
         "Qorxulu, amma zəkalı."
       ],
       "sellCount": 950000,
-      "stock": 28
+      "stock": 28,
+      "like": 1,
+      "isLike": false,
+      "dislike": 0,
+      "isDisLike": false
     },
     {
       "id": 11,
@@ -196,7 +236,11 @@
         "Həm uşaqlara, həm böyüklərə uyğundur."
       ],
       "sellCount": 1700000,
-      "stock": 70
+      "stock": 70,
+      "like": 1,
+      "isLike": false,
+      "dislike": 0,
+      "isDisLike": false
     },
     {
       "id": 12,
@@ -214,7 +258,11 @@
         "Macəra dolu bir yolçuluqdur."
       ],
       "sellCount": 1800000,
-      "stock": 65
+      "stock": 65,
+      "like": 1,
+      "isLike": false,
+      "dislike": 0,
+      "isDisLike": false
     },
     {
       "id": 13,
@@ -232,7 +280,11 @@
         "Bir daha oxumaq istəyirəm."
       ],
       "sellCount": 2100000,
-      "stock": 55
+      "stock": 55,
+      "like": 1,
+      "isLike": false,
+      "dislike": 0,
+      "isDisLike": false
     },
     {
       "id": 14,
@@ -250,7 +302,11 @@
         "Müasir bir klassikdir."
       ],
       "sellCount": 2500000,
-      "stock": 80
+      "stock": 80,
+      "like": 1,
+      "isLike": false,
+      "dislike": 0,
+      "isDisLike": false
     },
     {
       "id": 15,
@@ -268,7 +324,11 @@
         "Bir daha oxuyuram."
       ],
       "sellCount": 2200000,
-      "stock": 75
+      "stock": 75,
+      "like": 1,
+      "isLike": false,
+      "dislike": 0,
+      "isDisLike": false
     },
     {
       "id": 16,
@@ -286,7 +346,11 @@
         "Poetik və hikmətli."
       ],
       "sellCount": 2300000,
-      "stock": 90
+      "stock": 90,
+      "like": 1,
+      "isLike": false,
+      "dislike": 0,
+      "isDisLike": false
     },
     {
       "id": 17,
@@ -304,7 +368,11 @@
         "Raskolnikovun iç dünyası zəngindir."
       ],
       "sellCount": 870000,
-      "stock": 29
+      "stock": 29,
+      "like": 1,
+      "isLike": false,
+      "dislike": 0,
+      "isDisLike": false
     },
     {
       "id": 18,
@@ -322,7 +390,11 @@
         "Fəlsəfi düşüncələrlə doludur."
       ],
       "sellCount": 810000,
-      "stock": 25
+      "stock": 25,
+      "like": 1,
+      "isLike": false,
+      "dislike": 0,
+      "isDisLike": false
     },
     {
       "id": 19,
@@ -340,7 +412,11 @@
         "Bir dəfə oxudun, ruhuna işləyir."
       ],
       "sellCount": 1250000,
-      "stock": 42
+      "stock": 42,
+      "like": 1,
+      "isLike": false,
+      "dislike": 0,
+      "isDisLike": false
     },
     {
       "id": 20,
@@ -358,7 +434,11 @@
         "Don Kixot unutulmaz obrazdır."
       ],
       "sellCount": 980000,
-      "stock": 37
+      "stock": 37,
+      "like": 1,
+      "isLike": false,
+      "dislike": 0,
+      "isDisLike": false
     },
     {
       "id": 21,
@@ -376,7 +456,11 @@
         "Narnia dünyası məni valeh etdi."
       ],
       "sellCount": 1600000,
-      "stock": 55
+      "stock": 55,
+      "like": 1,
+      "isLike": false,
+      "dislike": 0,
+      "isDisLike": false
     },
     {
       "id": 22,
@@ -394,7 +478,11 @@
         "Müasir klassik."
       ],
       "sellCount": 1050000,
-      "stock": 34
+      "stock": 34,
+      "like": 1,
+      "isLike": false,
+      "dislike": 0,
+      "isDisLike": false
     },
     {
       "id": 23,
@@ -412,7 +500,11 @@
         "Tarixi hiss etmək üçün mükəmməl."
       ],
       "sellCount": 1150000,
-      "stock": 48
+      "stock": 48,
+      "like": 1,
+      "isLike": false,
+      "dislike": 0,
+      "isDisLike": false
     },
     {
       "id": 24,
@@ -430,7 +522,11 @@
         "İngilis klassikliyinin incisidir."
       ],
       "sellCount": 950000,
-      "stock": 41
+      "stock": 41,
+      "like": 1,
+      "isLike": false,
+      "dislike": 0,
+      "isDisLike": false
     },
     {
       "id": 25,
@@ -448,7 +544,11 @@
         "Gece yatmağa qoymadı."
       ],
       "sellCount": 1250000,
-      "stock": 44
+      "stock": 44,
+      "like": 1,
+      "isLike": false,
+      "dislike": 0,
+      "isDisLike": false
     },
     {
       "id": 26,
@@ -466,7 +566,11 @@
         "Hələ də təsirindəyəm."
       ],
       "sellCount": 1400000,
-      "stock": 50
+      "stock": 50,
+      "like": 1,
+      "isLike": false,
+      "dislike": 0,
+      "isDisLike": false
     },
     {
       "id": 27,
@@ -484,7 +588,11 @@
         "Oxuyarkən nəfəsim kəsildi."
       ],
       "sellCount": 800000,
-      "stock": 31
+      "stock": 31,
+      "like": 1,
+      "isLike": false,
+      "dislike": 0,
+      "isDisLike": false
     },
     {
       "id": 28,
@@ -502,7 +610,11 @@
         "Bir daha oxumaq istəyirəm."
       ],
       "sellCount": 1600000,
-      "stock": 58
+      "stock": 58,
+      "like": 1,
+      "isLike": false,
+      "dislike": 0,
+      "isDisLike": false
     },
     {
       "id": 29,
@@ -516,7 +628,11 @@
       "language": ["Azərbaycan", "İngilis"],
       "comments": ["Çox təsirli roman idi.", "Tərcüməsi gözəldir."],
       "sellCount": 150,
-      "stock": 30
+      "stock": 30,
+      "like": 1,
+      "isLike": false,
+      "dislike": 0,
+      "isDisLike": false
     },
     {
       "id": 30,
@@ -533,7 +649,11 @@
         "Tarixi və sevgi bir arada."
       ],
       "sellCount": 230,
-      "stock": 15
+      "stock": 15,
+      "like": 1,
+      "isLike": false,
+      "dislike": 0,
+      "isDisLike": false
     }
   ]
 }
